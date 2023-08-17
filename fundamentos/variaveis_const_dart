@@ -40,6 +40,11 @@ void main(){
  String nomeb = stdin.readLineSync() ?? "erro";
  print(nomeb);
 
+ //podemos interpolar ;
+  $valor;
+  
+  valor1.toString();
+
 
  
 
